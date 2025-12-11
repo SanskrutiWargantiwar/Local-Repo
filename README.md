@@ -53,4 +53,4 @@ The backend team must ensure their API endpoints return data in these precise JS
 ]
 
 2. Sensor Locations (Base Map & Table)
-Integration Point: src/components/MapComponent.js Purpose: Provides data for map markers (lat/lng) and the site table.
+Integration Point: `src/components/MapComponent.js` Purpose: Provides data for map markers (lat/lng) and the site table.
